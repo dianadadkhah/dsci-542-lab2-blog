@@ -11,6 +11,62 @@
     "href": "index.html",
     "title": "Why leaving the hospital early can be deadly for children",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "When a child is sick enough to be hospitalized, many people assume the biggest danger is during the hospital stay. But in many low-resource settings, a large number of child deaths happen after families go home. This is called post-discharge mortality—and it can be just as serious as what happens inside the hospital.\nOne factor that can make outcomes worse is unplanned discharge, sometimes called “Discharge Against Medical Advice or DAMA” This happens when a caregiver takes a child out of the hospital before the medical team has decided the child is ready to leave. The decision is often shaped by real-life pressures: money for food or transport, responsibilities at home, frustration with long waits, or the belief that the child is already improving.\nIn this post, I use a real cohort study from six hospitals in Uganda to explain why unplanned discharges matter, what the data shows about mortality and readmissions, and how data science can help identify which children are most at risk. The key message is simple: leaving early is rarely a single “bad choice” it is often a sign of deeper clinical and social vulnerability that health systems need to address."
+  },
+  {
+    "objectID": "index.html#introduction-why-leaving-the-hospital-early-matters",
+    "href": "index.html#introduction-why-leaving-the-hospital-early-matters",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "",
+    "text": "When a child is sick enough to be hospitalized, many people assume the biggest danger is during the hospital stay. But in many low-resource settings, a large number of child deaths happen after families go home. This is called post-discharge mortality—and it can be just as serious as what happens inside the hospital.\nOne factor that can make outcomes worse is unplanned discharge, sometimes called “Discharge Against Medical Advice or DAMA” This happens when a caregiver takes a child out of the hospital before the medical team has decided the child is ready to leave. The decision is often shaped by real-life pressures: money for food or transport, responsibilities at home, frustration with long waits, or the belief that the child is already improving.\nIn this post, I use a real cohort study from six hospitals in Uganda to explain why unplanned discharges matter, what the data shows about mortality and readmissions, and how data science can help identify which children are most at risk. The key message is simple: leaving early is rarely a single “bad choice” it is often a sign of deeper clinical and social vulnerability that health systems need to address."
+  },
+  {
+    "objectID": "index.html#what-is-an-unplanned-discharge",
+    "href": "index.html#what-is-an-unplanned-discharge",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "What Is an Unplanned Discharge?",
+    "text": "What Is an Unplanned Discharge?\nAn unplanned discharge means a child leaves the hospital without the discharge being initiated by the medical team. In other words, the caregiver decides to leave before the healthcare provider thinks it is safe or appropriate. In the literature, this is sometimes labeled “discharge against medical advice (DAMA),” but that wording can be misleading. In many cases, families leave because they do not feel they have a realistic option to stay.\nThere are several common reasons. Some are financial, such as the cost of meals, medicines, transportation, or staying near the hospital. Others are social, like needing to care for other children at home or needing to return to work. Some reasons are related to the health system, such as long wait times, poor communication, or dissatisfaction with care. Finally, some caregivers may think the child is improving and believe continued hospitalization is unnecessary.\nFrom a data science perspective, the important point is that unplanned discharge is not random. It tends to happen more often in children who are already medically high-risk (for example, malnutrition or HIV) and families facing difficult living conditions. That combination can create a dangerous situation after discharge, especially when follow-up care is hard to access."
+  },
+  {
+    "objectID": "index.html#using-data-to-study-child-outcomes",
+    "href": "index.html#using-data-to-study-child-outcomes",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "Using Data to Study Child Outcomes",
+    "text": "Using Data to Study Child Outcomes\nTo make this concrete, I will refer to a multisite cohort study conducted across six Ugandan hospitals. The study followed children aged 0–60 months who were admitted with suspected or proven infections and tracked outcomes for six months after discharge. It found that unplanned discharges were common and were strongly linked to higher mortality and readmission after leaving the hospital."
+  },
+  {
+    "objectID": "index.html#a-case-study-from-uganda",
+    "href": "index.html#a-case-study-from-uganda",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "A Case Study from Uganda",
+    "text": "A Case Study from Uganda"
+  },
+  {
+    "objectID": "index.html#what-the-data-revealed",
+    "href": "index.html#what-the-data-revealed",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "What the Data Revealed",
+    "text": "What the Data Revealed"
+  },
+  {
+    "objectID": "index.html#why-these-findings-matter",
+    "href": "index.html#why-these-findings-matter",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "Why These Findings Matter",
+    "text": "Why These Findings Matter"
+  },
+  {
+    "objectID": "index.html#limitations-and-challenges",
+    "href": "index.html#limitations-and-challenges",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "Limitations and Challenges",
+    "text": "Limitations and Challenges"
+  },
+  {
+    "objectID": "index.html#conclusion-how-data-science-can-save-lives",
+    "href": "index.html#conclusion-how-data-science-can-save-lives",
+    "title": "Why leaving the hospital early can be deadly for children",
+    "section": "Conclusion: How Data Science Can Save Lives",
+    "text": "Conclusion: How Data Science Can Save Lives"
   }
 ]
