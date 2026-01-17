@@ -63,6 +63,6 @@ Unplanned discharge is a powerful indicator of vulnerability in pediatric health
 
 Data science plays a crucial role in uncovering these patterns. By linking hospital records with post-discharge follow-up and social data, researchers can move beyond assumptions and identify which children are most at risk. This knowledge can inform targeted interventions that support families during hospitalization and after discharge.
 
-Ultimately, reducing child mortality requires more than effective treatment inside hospitals. It requires data-informed strategies that recognize the realities families face and ensure that vulnerable children receive the care they need, both during admission and long after they return home.
+Ultimately, reducing child mortality requires more than effective treatment inside hospitals. It requires data-informed strategies that recognize the realities families face and ensure that vulnerable children receive the care they need, both during admission and long after they return home. 
 
 
