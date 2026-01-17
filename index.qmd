@@ -1,0 +1,13 @@
+---
+title: "Why leaving the hospital early can be deadly for children"
+---
+
+## Introduction: Why Leaving the Hospital Early Matters
+## What Is an Unplanned Discharge?
+## Using Data to Study Child Outcomes
+## A Case Study from Uganda
+## What the Data Revealed
+## Why These Findings Matter
+## Limitations and Challenges
+## Conclusion: How Data Science Can Save Lives
+
